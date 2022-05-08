@@ -1,7 +1,7 @@
 # Netflix_Movie_Analysis
 
 ## Table of Contents
-* [Code Explanation](#Computational Thinking Final Project .docx)
+* [Code Explanation](#Computational-Thinking-Final-Project.docx)
 * [Dataset Used](#Netflix_Titles.csv)
 * [Top Ten Countries Where TV and Movies Are Made](#countrieschart.png)
 * [Number of Movies and TV Released Over 80 Years](#datesplot.png)
